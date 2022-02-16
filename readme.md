@@ -1,10 +1,14 @@
-# Three.js Starter
+# Cool 3D Ball for practice
 
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+![demo](./static/demo.png?raw=true 'Title')
 
-# CrashCourse by DesignCourse
+## Three.js Starter
 
-https://www.youtube.com/watch?v=pUgWfqWZWmM&list=WL&index=1&t=218s
+Courtesy of Bruno Simon of <https://threejs-journey.xyz/>
+
+## CrashCourse by DesignCourse
+
+<https://www.youtube.com/watch?v=pUgWfqWZWmM&list=WL&index=1&t=218s>
 
 ## Setup
 
